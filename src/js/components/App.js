@@ -1,6 +1,7 @@
 import React from "react";
-import List from "./js/components/List";
-import Form from "./js/components/FormHook";
+import List from "./List";
+//import Form from "./Form";
+import Form from "./FormHook";
 
 const App = () => (
   <>
